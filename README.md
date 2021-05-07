@@ -1,6 +1,6 @@
 ### Hi, I'm Hugo Cortell 🕹
 My name is Hugo and I'm a game designer from Spain.   
-I have studied at both NYU  and VFS and I'm currently working solo on a VR game for my VFS finals.
+I have studied at both NYU  and VFS and I'm currently working on finding a job.
 
 I have experience with C#, Lua and Shellscript.  
 Though I personally prefer to leave the programming to the professionals.
