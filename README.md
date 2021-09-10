@@ -1,6 +1,5 @@
 ### Hi, I'm Hugo Cortell 🕹
-My name is Hugo and I'm a game designer from Spain.   
-I have studied at both NYU  and VFS and I'm currently working on finding a job.
+My name is Hugo and I'm a game designer from Spain, currently working as a Content Designer at Paradox Interactive.  
 
 I have experience with C#, Lua and Shellscript.  
 Though I personally prefer to leave the programming to the professionals.
