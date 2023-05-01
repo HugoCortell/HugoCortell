@@ -1,8 +1,5 @@
 ### Hi, I'm Hugo Cortell 🕹
-My name is Hugo and I'm a game designer from Spain, currently working as a Content Designer at Paradox Interactive.  
+My name is Hugo and I'm a Game Designer from Spain. I'm very good at writing code that crashes.
 
-I have experience with C#, Lua and Shellscript.  
-Though I personally prefer to leave the programming to the professionals.
-
-I have a passion for all things that push the envelope of technology and design.   
+I have a passion for not being unemployed.
 [![Twitter Follow](https://img.shields.io/twitter/follow/CortellHugo?style=social)](https://twitter.com/CortellHugo)
